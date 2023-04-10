@@ -10,6 +10,9 @@
 Kullanım
 Bu uygulamada, yeni bir kişi ekleyebilir, var olan kişileri düzenleyebilir veya silebilirsiniz.
 
+### Uygulama Canlı Önizlemesi🏻‍💻
+
+https://react-phone-book-mauve.vercel.app
 
 ### Uygulama Ekran Görüntüleri 🏻‍💻
 ![png](https://user-images.githubusercontent.com/67739721/230801503-1be63dca-3a29-4906-8338-b9e28ab790b7.png)

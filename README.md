@@ -1,6 +1,6 @@
 # Telefon Rehberi📲
 
-🚀Bu proje, React kullanarak basit bir telefon rehberi uygulamasıdır.
+🚀Bu proje, React kullanarak basit bir telefon rehberi uygulamasıdır. Rehber'de gözüken default 2 kişi haricinde rehbere kişi ekleyebilir, filtre işlemi sayesinde listelenen kişileri bulabilir veya silebilirsiniz.
 
 ## Kurulum🌐
 👉Bu proje klasörünü indirin veya kopyalayın.<br>
